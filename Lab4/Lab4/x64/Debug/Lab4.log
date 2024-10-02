@@ -1,0 +1,58 @@
+﻿  Lab4.cpp
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(100,6): error C2365: 'CustomVector<T>::size': redefinition; previous definition was 'data member'
+  (compiling source file 'Lab4.cpp')
+      C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(8,6):
+      see declaration of 'CustomVector<T>::size'
+      C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(100,6):
+      the template instantiation context (the oldest one first) is
+          C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(5,7):
+          while compiling class template 'CustomVector'
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(101,3): error C2059: syntax error: 'return'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(101,14): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(84,5): error C2760: syntax error: 'if' was unexpected here; expected '}'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(83,22): error C2760: syntax error: '{' was unexpected here; expected 'expression'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(84,8): error C3878: syntax error: unexpected token '(' following 'expression'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(84,8): message : error recovery skipped: '( identifier +  . . . ('
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(84,30): error C2760: syntax error: ')' was unexpected here; expected ';'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(84,30): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(84,30): error C3878: syntax error: unexpected token ')' following 'statement'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(84,30): error C3878: syntax error: unexpected token ')' following 'selection_statement'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(84,30): message : error recovery skipped: ') )'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(104,2): error C2146: syntax error: missing ';' before identifier 'T'
+  (compiling source file 'Lab4.cpp')
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(100,6): error C2207: 'CustomVector<T>::size': a member of a class template cannot acquire a function type
+  (compiling source file 'Lab4.cpp')
+      C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(100,6):
+      the template instantiation context (the oldest one first) is
+          C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\Lab4.cpp(6,20):
+          see reference to class template instantiation 'CustomVector<int>' being compiled
+  
+C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(100,6): error C2365: 'CustomVector<int>::size': redefinition; previous definition was 'data member'
+  (compiling source file 'Lab4.cpp')
+      C:\Users\parachag7099\OneDrive - University of Wisconsin-Stout\Documents\C++ Projects\Data Structures\Lab4\Lab4\CustomVectors.h(8,6):
+      see declaration of 'CustomVector<int>::size'
+  
